@@ -30,9 +30,3 @@ The system demonstrates basic data analysis concepts using Python, including fil
 - Control Flow (Loops & Conditions)
 - Graphics Module (for visualization)
 
-
-3. Place the CSV data files in the same directory as the script
-4. Run the program using:
-
-```bash
-python flight_data.py
