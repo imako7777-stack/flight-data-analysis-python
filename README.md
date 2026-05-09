@@ -1,6 +1,6 @@
-# ✈️ Flight Data Analysis System using Python
+#  Flight Data Analysis System using Python
 
-## 📌 Project Overview
+## Project Overview
 This project is a Python-based data analysis system that processes flight departure data from CSV files.  
 It allows users to select an airport and year, and then generates statistical insights about flight operations.
 
@@ -8,7 +8,7 @@ The system demonstrates basic data analysis concepts using Python, including fil
 
 ---
 
-## 🚀 Features
+## Key Features
 - Load and process flight data from CSV files
 - Validate user input (airport codes and year selection)
 - Calculate total number of flights
@@ -22,7 +22,7 @@ The system demonstrates basic data analysis concepts using Python, including fil
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - Python
 - CSV Module
 - File Handling
@@ -30,11 +30,7 @@ The system demonstrates basic data analysis concepts using Python, including fil
 - Control Flow (Loops & Conditions)
 - Graphics Module (for visualization)
 
----
 
-## 📂 How to Run the Project
-1. Clone the repository or download the files
-2. Ensure Python is installed on your system
 3. Place the CSV data files in the same directory as the script
 4. Run the program using:
 
